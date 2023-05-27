@@ -1,7 +1,9 @@
 <h1>Tom Williams</h1> 
+
 <h2>About Me</h2>
+
 <h3>Education</h3>
-I'm currently a part-time student in the Computer Programming course at GRCC. (2021-present)
+<p>I'm currently a part-time student in the Computer Programming course at GRCC. (2021-present)</p>
 <li>GPA: 4.0</li>
 <li>Member of Phi Theta Kappa honors fraternity</li>
 
