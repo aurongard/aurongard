@@ -5,6 +5,10 @@ I'm currently a student in the Computer Programming course at GRCC.
 <li>GPA: 4.0</li>
 <li>Member of Phi Theta Kappa honors fraternity</li>
 
-Languages that I've learned thus far: Python
+
+Languages that I've learned thus far: 
+<li>Python</li>
+<li>Java</li>
+<li>HTML5 and CSS</li>
 
 I also dabble in Audio Engineering, Dungeons and Dragons 5e, and Graphic Design.
