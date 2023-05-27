@@ -1,5 +1,6 @@
 <h1>Tom Williams</h1> 
-<h3>About Me</h3>
+<h2>About Me</h2>
+<h3>Education</h3>
 I'm currently a student in the Computer Programming course at GRCC.
 <li>GPA: 4.0</li>
 <li>Member of Phi Theta Kappa honors fraternity</li>
@@ -9,4 +10,7 @@ I'm currently a student in the Computer Programming course at GRCC.
 <li>Java</li>
 <li>HTML5 and CSS</li>
 
-I also dabble in Audio Engineering, Dungeons and Dragons 5e, and Graphic Design.
+<h3>Hobbies</h3>
+<li>Audio Engineering and writing music</li>
+<li>Graphic Design</li>
+<li>Dungeons & Dragons</li>
