@@ -3,10 +3,8 @@
 I'm currently a student in the Computer Programming course at GRCC.
 <li>GPA: 4.0</li>
 <li>Member of Phi Theta Kappa honors fraternity</li>
-<br>
-<br>
 
-Languages that I've learned thus far: 
+<h3>Languages</h3>
 <li>Python</li>
 <li>Java</li>
 <li>HTML5 and CSS</li>
