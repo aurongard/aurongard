@@ -1,5 +1,4 @@
 <h1>Tom Williams</h1> 
-<br>
 <h3>About Me</h3>
 I'm currently a student in the Computer Programming course at GRCC.
 <li>GPA: 4.0</li>
