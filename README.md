@@ -8,11 +8,12 @@
 <li>Member of Phi Theta Kappa honors fraternity</li>
 
 <h3>Languages</h3>
-<li>Python</li>
-<li>Java</li>
-<li>HTML5 and CSS</li>
 <li>C++</li>
 <li>C#</li>
+<li>HTML5 and CSS</li>
+<li>Java</li>
+<li>Python</li>
+
 
 <h3>Hobbies</h3>
 <li>Audio Engineering and writing music</li>
