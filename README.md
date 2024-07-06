@@ -12,8 +12,6 @@
 <li>C#</li>
 <li>HTML5 and CSS</li>
 <li>Java</li>
-<li>Python</li>
-
 
 <h3>Hobbies</h3>
 <li>Audio Engineering and writing music</li>
