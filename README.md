@@ -10,10 +10,12 @@
 <h3>Languages</h3>
 <li>C++</li>
 <li>C#</li>
+<li>GDScript</li>
 <li>HTML5 and CSS</li>
 <li>Java</li>
 
 <h3>Hobbies</h3>
 <li>Audio Engineering and writing music</li>
+<li>Game Design</li>
 <li>Graphic Design</li>
 <li>Dungeons & Dragons</li>
